@@ -1,3 +1,3 @@
-# Qt Video Streaming
+# Qt Video Streaming Example
 
-A simple demo project based on Qt Framework and Video4Linux API for video capturing and streaming.
+An example project based on Qt and Video4Linux API for video capturing and streaming.
